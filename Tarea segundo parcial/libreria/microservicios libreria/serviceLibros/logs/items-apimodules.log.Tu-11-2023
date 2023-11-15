@@ -1,0 +1,13 @@
+2023-11-14T16:41:02.579Z - info: Express server for Items listening on port3002
+2023-11-14T16:41:09.327Z - info: GET: /api/v1/libros
+2023-11-14T16:41:09.418Z - info: Query libros by undefined
+2023-11-14T16:45:48.123Z - info: GET: /api/v1/libros
+2023-11-14T16:45:48.137Z - info: Query libros by undefined
+2023-11-14T16:46:29.848Z - info: PUT: /api/v1/libros/:id
+2023-11-14T16:46:29.863Z - info: libro updated by 1002
+2023-11-14T16:46:47.319Z - info: GET: /api/v1/libros
+2023-11-14T16:46:47.328Z - info: Query libros by undefined
+2023-11-14T16:47:00.735Z - info: DELETE: /api/v1/libros/:id
+2023-11-14T16:47:00.747Z - info: libro delted by 1002
+2023-11-14T16:47:07.950Z - info: GET: /api/v1/libros
+2023-11-14T16:47:07.958Z - info: Query libros by undefined
